@@ -1,5 +1,4 @@
 # Infura
-
 **[Website](https://infura.io)**
 
 **[Documentation](https://infura.io/docs)** - Not sure where to start? Check out our documentation.
